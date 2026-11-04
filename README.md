@@ -5,4 +5,6 @@ Island1_outputs.ipynb loads those functions and uses them to plot the energy lev
 
 27/10/26 - Now the code can output Coulomb diamonds for T>0 and calculate the main current passing through the device (with no stray dopants or oxide defects modelled yet).
 
-Keep both notebooks in the same folder and run Island1_outputs.ipynb (needs numpy and matplotlib). 
+05/11/26 - Now the code can output Coulomb diamonds with one stray dopant interfering in the systems current flow. This can be extended to an ensemble of stray dopants.
+
+Keep both notebooks in the same folder and run Island1_outputs.ipynb. 
