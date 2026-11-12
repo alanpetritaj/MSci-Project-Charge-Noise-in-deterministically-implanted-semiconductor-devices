@@ -7,4 +7,6 @@ Island1_outputs.ipynb loads those functions and uses them to plot the energy lev
 
 05/11/26 - Now the code can output Coulomb diamonds with one stray dopant interfering in the systems current flow. This can be extended to an ensemble of stray dopants.
 
+12/11/26 - Now the code is extended to N interacting stray dopants in the device which can couple to the source or the drain. The Coulomb diamonds are plotted and attempts are made to tune the dopants to their maximum noise.
+
 Keep both notebooks in the same folder and run Island1_outputs.ipynb. 
