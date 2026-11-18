@@ -9,4 +9,6 @@ Island1_outputs.ipynb loads those functions and uses them to plot the energy lev
 
 12/11/26 - Now the code is extended to N interacting stray dopants in the device which can couple to the source or the drain. The Coulomb diamonds are plotted and attempts are made to tune the dopants to their maximum noise.
 
+19/11/26 - Now the code is extended to plot the noise spectra for the initial 5 dopant set in the device, and then extended to plot the averaged noise spectra using 400 sets of 5 randomly placed dopants in the device. 
+
 Keep both notebooks in the same folder and run Island1_outputs.ipynb. 
